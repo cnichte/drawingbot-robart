@@ -7,7 +7,6 @@ This project consists of several sub-projects:
 - Robart hardware (follows)
 - [drawingbot-robart-firmware](https://github.com/cnichte/drawingbot-robart-firmware)
 - [drawingbot-robart-app-swiftui](https://github.com/cnichte/drawingbot-robart-firmware)
-- [https://github.com/cnichte/drawingbot-robart](https://github.com/cnichte/drawingbot-robart)
 - Robart app for Windows, Linux and Android (follows)
 
 Details will also follow.
